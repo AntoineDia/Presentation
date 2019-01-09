@@ -12,11 +12,3 @@
 3. You
 
 <b> Ceci est un morceau de code HTML</b>
-
-<script>
-  var d = new Date();
-
-  gethours(d);
-  getminutes(d);
-  getseconds(d);
-</script>
