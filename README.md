@@ -8,7 +8,7 @@
 ## Is it me you're looking for?
 
 1. Batman
-2. Dieu
+2. God
 3. You
 
 <b> Ceci est un morceau de code HTML</b>
