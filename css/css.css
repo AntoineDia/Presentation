@@ -2,7 +2,18 @@ table {
   width: 800px;
 }
 
+h1{
+  color: red;
+}
+
+body {
+  background-image: url("../images/tile.jpg");
+  background-repeat: repeat;
+  cursor: cell;
+}
+
 #colonegauche {
+  color: blue;
   text-align: center;
   width: 500px;
 }
@@ -13,8 +24,14 @@ ol {
 }
 
 #remplissagelatin {
+  font-family: "courier new";
   text-align: center;
   white-space: pre;
+  font-weight: bold;
+}
+
+.menu {
+  color: purple;
 }
 
 .menu td, th {
