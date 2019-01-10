@@ -6,9 +6,16 @@ h1{
   color: red;
 }
 
-body {
+html{
   background-image: url("../images/tile.jpg");
   background-repeat: repeat;
+}
+
+div.background{
+  background: rgba(255,255,255,0.7);
+}
+
+body {
   cursor: cell;
 }
 
