@@ -1,9 +1,9 @@
-# **Antoine Diambu**
+# Antoine Diambu
 
-![erreur](images/couv.jpg "la classe à Dallas 3")
+![photo de moi avec une couverture](images/couv.jpg "la classe à Dallas 3")
 
 
-# Hello <em> **world** </em>
+# Hello *world*
 
 ## Is it me you're looking for?
 
