@@ -1,0 +1,28 @@
+table {
+  width: 800px;
+}
+
+#colonegauche {
+  text-align: center;
+  width: 500px;
+}
+
+ol {
+  margin-left: 30%;
+  text-align: left;
+}
+
+#remplissagelatin {
+  text-align: center;
+  white-space: pre;
+}
+
+.menu td, th {
+  border: 1px solid;
+  text-align: center;
+  width: 1%;
+}
+
+iframe {
+  margin-top: 20px;
+}
